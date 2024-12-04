@@ -22,7 +22,7 @@ This **Web Scraper GUI Application** provides an intuitive and user-friendly int
 - Clone this repository:
     ```bash
     git clone https://github.com/Zaque-69/Scooby-main.git
-    cd web-scraper-gui
+    cd Scooby-main
     ```
 - Install the required Python dependencies:
     ```bash
